@@ -1,0 +1,15 @@
+E:\Scripts\C#\Ssegredo\Ssegredo\bin\Debug\net6.0\Ssegredo.exe
+E:\Scripts\C#\Ssegredo\Ssegredo\bin\Debug\net6.0\Ssegredo.deps.json
+E:\Scripts\C#\Ssegredo\Ssegredo\bin\Debug\net6.0\Ssegredo.runtimeconfig.json
+E:\Scripts\C#\Ssegredo\Ssegredo\bin\Debug\net6.0\Ssegredo.dll
+E:\Scripts\C#\Ssegredo\Ssegredo\bin\Debug\net6.0\Ssegredo.pdb
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.csproj.AssemblyReference.cache
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.AssemblyInfoInputs.cache
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.AssemblyInfo.cs
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.csproj.CoreCompileInputs.cache
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.dll
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\refint\Ssegredo.dll
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.pdb
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\Ssegredo.genruntimeconfig.cache
+E:\Scripts\C#\Ssegredo\Ssegredo\obj\Debug\net6.0\ref\Ssegredo.dll
